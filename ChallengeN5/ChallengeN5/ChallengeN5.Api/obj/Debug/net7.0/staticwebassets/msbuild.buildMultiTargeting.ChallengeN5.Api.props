@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ChallengeN5.Api.props" />
+</Project>
